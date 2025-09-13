@@ -72,25 +72,27 @@ addNoteToTrack(noteValue, track, tick, duration) and playTrack(sequence)
 
 
 
-53-
+53-x
 
 
 
-54-
+54-x
 
 
 
-55-
+55-x
 
 
 
-56-
+56-x
 
 
 
-57-
+57-x
 
 
 
-58-
+58- As I Step Over, the tune object grows — I can check tune.getNotes() or watch its notes field.
+
+I can also see player as a field of the TuneCreator instance (this.player) in the debug variables pane.
 
