@@ -64,11 +64,11 @@ addNoteToTrack(noteValue, track, tick, duration) and playTrack(sequence)
 
 
 
-51-
+51-x
 
 
 
-52-
+52-Yes, it gives same result
 
 
 
