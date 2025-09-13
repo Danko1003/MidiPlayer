@@ -21,7 +21,7 @@ public class SimpleTune
      */
     public SimpleTune()
     {
-        instrument = 0;
+        instrument = 3;
         notes = new ArrayList<>();
     }
     

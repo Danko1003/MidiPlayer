@@ -25,8 +25,20 @@ public class TuneCreator
      * @param  y  a sample parameter for a method
      * @return    the sum of x and y
      */
-    public void sampleMethod()
+    public void CreateAndPlay()
     {
+        SimpleTune tune = new SimpleTune();
         
+        
+        tune.addNote("A",5);
+        tune.addNote("B",5);
+        tune.addNote("C",5);
+        tune.addNote("D",5);
+        tune.addNote("E",5);
+        tune.addNote("F",5);
+        
+        player.playTune(tune);
     }
+    
+    
 }
